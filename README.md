@@ -64,11 +64,11 @@
   <p></p>
 <h3>Projects in SQL</h3>
  <p><a href="https://github.com/RatmirW/Piscine_SQL">Piscine_SQL</a></p>
- <p>----------------------------------------------------------------------</p> -->
+ <p>----------------------------------------------------------------------</p>
  <p></p>
  <p></p>
  <p></p>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RatmirGR&theme=onedark" alt="https://github.com/ryo-ma/github-profile-trophy"/></p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RatmirGR&theme=onedark" alt="https://github.com/ryo-ma/github-profile-trophy"/></p>-->
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>-->
 <!--![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical)](https://github.com/RatmirW/github-readme-stats)-->
