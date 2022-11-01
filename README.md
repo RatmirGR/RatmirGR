@@ -14,10 +14,10 @@
     <p style="text-align:center">Core Skills</p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-    <img src="https://github.com/RatmirW/RatmirW/blob/main/images/maven.png" alt="Maven" height="28"/>
+    <img src="https://github.com/RatmirGR/RatmirGR/blob/main/images/maven.png" alt="Maven" height="28"/>
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-    <img src="https://github.com/RatmirW/RatmirW/blob/main/images/hibernate.png" alt="Hibernate" height="28"/>
-    <img src="https://github.com/RatmirW/RatmirW/blob/main/images/junit5.png" alt="JUnit5" height="28"/></p>
+    <img src="https://github.com/RatmirGR/RatmirGR/blob/main/images/hibernate.png" alt="Hibernate" height="28"/>
+    <img src="https://github.com/RatmirGR/RatmirGR/blob/main/images/junit5.png" alt="JUnit5" height="28"/></p>
     <p></p>
     <p style="text-align:center">Extra skills</p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
