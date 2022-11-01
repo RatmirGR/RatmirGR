@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirGR/blob/main/images/hi.png" height="48"/>, I'm Ratmir!</h1>
+<h1 align="center">Hi there <img src="https://github.com/RatmirGR/RatmirGR/blob/main/images/hi.png" height="48"/>, I'm Ratmir!</h1>
 <h3 align="center">Computer science student</h3>
 <!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
