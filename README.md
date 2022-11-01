@@ -33,23 +33,23 @@
   </td>
  </tr>
 </table>
-<p></p>
+<!-- <p></p>
 <p></p>
 <h3>Projects in Java</h3>
  <p><a href="https://github.com/RatmirW/Piscine-Java">Piscine Java</a></p>
  <p><a href="https://github.com/RatmirW/JavaCore">JavaCore</a></p>
-<!-- <p><a href="https://github.com/RatmirW/Algorithms-and-Data-structures">Algorithms and Data structures</a></p>
+ <p><a href="https://github.com/RatmirW/Algorithms-and-Data-structures">Algorithms and Data structures</a></p>
  <p><a href="https://github.com/RatmirW/Gradle-Maven">Gradle/Maven</a></p>
  <p><a href="https://github.com/RatmirW/Spring">Spring</a></p>
  <p><a href="https://github.com/RatmirW/Hibernate">Hibernate</a></p>
- <p><a href="https://github.com/RatmirW/Design-Patterns">Design Patterns</a></p>-->
+ <p><a href="https://github.com/RatmirW/Design-Patterns">Design Patterns</a></p>
  <p><a href="https://github.com/RatmirW/RememberTheSequence">Game "RememberTheSequence"</a></p>
  <p>----------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C++</h3>
  <p><a href="https://github.com/RatmirW/cpp-module_008">Cpp_module_008</a></p>
-<!-- <p><a href="https://github.com/RatmirW/Ft_containers">Ft_containers</a></p>
- <p><a href="https://github.com/RatmirW/WebServ">WebServ</a></p>-->
+ <p><a href="https://github.com/RatmirW/Ft_containers">Ft_containers</a></p>
+ <p><a href="https://github.com/RatmirW/WebServ">WebServ</a></p>
  <p>----------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C</h3>
@@ -64,7 +64,7 @@
   <p></p>
 <h3>Projects in SQL</h3>
  <p><a href="https://github.com/RatmirW/Piscine_SQL">Piscine_SQL</a></p>
- <p>----------------------------------------------------------------------</p>
+ <p>----------------------------------------------------------------------</p> -->
  <p></p>
  <p></p>
  <p></p>
