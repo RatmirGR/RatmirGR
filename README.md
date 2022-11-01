@@ -7,7 +7,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
   <td width="60%" class="tableOne">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirGR&theme=radical" alt="Top Langs" />
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />-->
   </td>
   <td width="40%" class="tableTwo">
